@@ -11,13 +11,6 @@ PES University, Bangalore
 
 ### Problem:
 
-Team Members:
-- [Mayank Agarwal](https://github.com/mayankagarwal44442)
-- [Siddarth Karki](https://github.com/Karki23)
-- [Karan Punjabi](https://github.com/karan20000000000)
-
-College: PES University, Hoskerahalli, Bangalore
-
 An aftermath of a flood that is usually overlooked is the spread of a water borne epidemic such as cholera, typhoid, Hepatitis A (Jaundice). These diseases, if wide spread, tend to be more dangerous than the flood itself.
 We propose an application that will predict and visually depict (by heat maps) the extent to which an existing disease in the source(where the flood had started/first occurred) will spread to the neighboring regions, so as to alert the local medical departments to be on standby.
 The above mentioned goal would be achieved by,	
